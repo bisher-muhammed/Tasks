@@ -63,7 +63,7 @@ Task Management is a full-stack web application built with **Python Django** and
    ```
 
 #### Frontend Setup
-1. Navigate to the `frontend` directory:
+1. Navigate to the `react-django` directory:
    ```bash
    cd frontend
    ```
@@ -75,7 +75,7 @@ Task Management is a full-stack web application built with **Python Django** and
 
 3. Start the React development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
